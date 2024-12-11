@@ -1,2 +1,10 @@
-# reusable-feedback-delay
-Reusable feedback delay created during the webaudio API training @Ircam
+# 04-feedback-delay
+
+Simple template for Web Audio demos and tests
+
+## Usage
+
+```
+cd path/to/dir
+npx serve
+```
